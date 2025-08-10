@@ -11,11 +11,3 @@ This project implements an end-to-end Natural Language Processing (NLP) workflow
 - Visualization using Matplotlib/NetworkX
 - Exporting processed graphs for downstream use
 
-## Project Directory Structure
-
-```plaintext
-chem-nlp-internship/
-├── data/           # Input datasets and corpus
-├── src/            # Main pipeline code
-├── outputs/        # Generated graphs and visualizations
-├── docs/           # Workflow diagrams
