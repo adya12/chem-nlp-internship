@@ -1,5 +1,4 @@
 # chem-nlp-internship
-\
 
 # NLP Knowledge Graph Pipeline
 
